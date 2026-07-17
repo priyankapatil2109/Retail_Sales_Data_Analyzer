@@ -1,0 +1,13 @@
+Date,Product,Category,Price,Quantity Sold,Total Sales
+2026-01-01,Laptop,Electronics,50000,2,100000
+2026-01-02,Phone,Electronics,30000,3,90000
+2026-01-03,T-Shirt,Clothing,1200,10,12000
+2026-01-04,Jeans,Clothing,2500,5,12500
+2026-01-05,Rice,Grocery,60,100,6000
+2026-01-06,Oil,Grocery,180,40,7200
+2026-01-07,TV,Electronics,45000,1,45000
+2026-01-08,Shoes,Fashion,2500,8,20000
+2026-01-09,Watch,Fashion,5000,4,20000
+2026-01-10,Milk,Grocery,55,120,6600
+2026-01-11,Laptop,Electronics,50000,1,50000
+2026-01-12,T-Shirt,Clothing,1200,15,18000
